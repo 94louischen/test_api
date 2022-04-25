@@ -1,0 +1,6 @@
+delete_user_sql:
+- delete from database.table where FPERSON_ID IN ('#user_id#', '#owner_id#')
+- delete from database.table where FPERSON_ID IN ('#user_id#', '#owner_id#')
+- delete from database.table where FPERSON_ID IN ('#user_id#', '#owner_id#')
+- delete from database.table where FID IN ('#user_id#', '#owner_id#')
+
