@@ -9,7 +9,7 @@
 
 > 2. 下载源码
 
-> > * git clone http://git.kfang.com/test-process-system/module-summary/kfw_infra_api.git
+<!-- > > * git clone http://git.kfang.com/test-process-system/module-summary/kfw_infra_api.git -->
 
 > 3. 安装依赖包
 
